@@ -1,0 +1,77 @@
+.login-container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.login-container h2 {
+  text-align: center;
+}
+
+.login-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-container input {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.login-container button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.login-container .error {
+  color: red;
+  margin-top: 10px;
+}
+
+.dashboard-container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.dashboard-container h2 {
+  text-align: center;
+}
+
+.dashboard-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task-form-container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.task-form-container h2 {
+  text-align: center;
+}
+
+.task-form-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.task-form-container input {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.task-form-container button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.task-form-container .success {
+  color: green;
+  margin-top: 10px;
+}
